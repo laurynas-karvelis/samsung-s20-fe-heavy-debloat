@@ -22,8 +22,8 @@ Once the phone is factory reset and nothing else is installed, do the following:
   - [Gallery](https://github.com/FossifyOrg/Gallery/releases)
   - [Clock](https://github.com/FossifyOrg/Clock/releases)
   - [Calculator](https://github.com/FossifyOrg/Calculator/releases)
-- Download Bromite web browser (Ungoogled Chromium alternative)
-  - [Bromite](https://www.bromite.org/)
+- Download Chromite web browser (Ungoogled Chromium alternative)
+  - [Chromite](https://github.com/uazo/cromite/releases)
 - Install each downloaded `apk` using `adb install <apk_file>`
 
 Note: "Weather" widget and "Samsung Keyboard" remain installed as they are quite useful and good looking tools. "Samsung keyboard" is now required by some crappy mobile bank apps. "USB debugging" can later be disabled as it also might force those mobile banking apps to complain.
