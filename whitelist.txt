@@ -147,3 +147,7 @@ com.android.stk
 com.android.stk2
 com.android.settings.intelligence
 com.samsung.android.honeyboard
+
+com.samsung.android.sm.devicesecurity
+com.samsung.android.smartsuggestions
+com.samsung.android.da.daagent
